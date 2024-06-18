@@ -2,7 +2,7 @@ h1 {
   color: #ffffff;
   text-align: center;
   display:block;
-  margin: 0; /* Elimina el margen por defecto */
+  margin: 0; 
   background-color: #3300ff;
   padding: 20px;
 }
@@ -23,7 +23,7 @@ h1 {
 }
 
 .header-content h1 {
-  margin: 0; /* Elimina el margen por defecto */
+  margin: 0;
   display: inline-block;
 }
 
